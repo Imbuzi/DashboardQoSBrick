@@ -1,7 +1,7 @@
 {
   "graph": [
     {
-      "name": "evolution-traitement-2g-prio",
+      "id": "evolution-traitement-2g-prio",
       "config": {
         "type": "line",
         "data": {
